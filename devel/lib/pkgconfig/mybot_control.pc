@@ -1,0 +1,8 @@
+prefix=/home/vtables/cpe631midtermproj/mybot_ws/devel
+
+Name: mybot_control
+Description: Description of mybot_control
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/vtables/cpe631midtermproj/mybot_ws/devel/lib 
+Requires: 
