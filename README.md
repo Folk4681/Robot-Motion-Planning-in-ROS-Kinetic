@@ -6,7 +6,9 @@ Implementation of D* and A* path planning algorithm along with dynamic window ap
 
 
 ## Extremely Simple Demonstration of A* In A Barren Environment
-<div style="text-align:center"><img src ="https://j.gifs.com/qjvoAy.gif" /></div>
+<p align="center">
+  <img src ="https://j.gifs.com/qjvoAy.gif">
+</p>
 
 
 
